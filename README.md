@@ -26,7 +26,7 @@
 
 <h3 align="left">MY_RESUME</h3>
 <a href="https://sakshichamola.github.io/Sakshi_chamola/" target="_blank">
-  <img src="https://img.shields.io/badge/Resume-View%20Here-blue?style=for-the-badge" alt="Resume Link">
+  <img src="https://th.bing.com/th/id/OIP.5xz7n9dsQ4082K-jszugiQHaHa?rs=1&pid=ImgDetMain" alt="Resume Link">
 </a>
 
 
