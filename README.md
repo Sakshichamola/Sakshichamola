@@ -1,3 +1,4 @@
+<img align="center" src="https://th.bing.com/th/id/OIP.ltSENRsVm1UGYZKec8QXYQHaCc?rs=1&pid=ImgDetMain" alt="sakshichamola" />
 <h1 align="center">Hi 👋, I'm Sakshi Chamola</h1>
 <h3 align="center">A passionate 4th-year B.Tech Computer Science & Engineering student specializing in Artificial Intelligence and Machine Learning.</h3>
 
